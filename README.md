@@ -64,11 +64,7 @@ python manage.py runserver
 
 ## Deploying to Heroku
 
-Install heroku cli app
-```sudo snap install --classic heroku```
 
-Then login to heroku
-```heroku login```
 
 
 
